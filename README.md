@@ -55,14 +55,8 @@ Keep the method lightweight enough to actually use.
 
 ## Repository structure
 
-text ai-engineering-project-loop/ | ├── README.md ├── LICENSE | ├── 01-raw-brain-dump/ ├── 02-problem-discovery/ ├── 03-scope-refinement/ ├── 04-scoped-prd/ ├── 05-prd-review/ ├── 06-mvp-architecture/ ├── 07-build-mvp/ ├── 08-validation/ ├── 09-operationalization/ ├── 10-scaling/ | ├── prompts/ ├── templates/ ├── examples/ └── docs/ 
+text ai-engineering-project-loop/ | ├── README.md ├── LICENSE | ├── 01-raw-brain-dump/ ├── 02-problem-discovery/ ├── 03-scope-refinement/ ├── 04-scoped-prd/ ├── 05-prd-review/ ├── 06-mvp-architecture/ ├── 07-build-mvp/ ├── 08-validation/ ├── 09-operationalization/ ├── 10-scaling/ 
 
 ## How to use this repo
 
-Use the numbered folders as the project lifecycle. Use prompts/ for reusable AI prompts, templates/ for repeatable project artifacts, examples/ for completed or sample workflows, and docs/ for reference material.
-
-The goal is not to create process for its own sake. The goal is to make AI engineering work easier to scope, build, validate, and operate.
-
-## Status
-
-Early public release. Actively evolving through real-world usage and experimentation.
+Use the numbered folders as the project lifecycle. Follow instructions in each file.
